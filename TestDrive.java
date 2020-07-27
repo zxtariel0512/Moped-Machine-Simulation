@@ -1,4 +1,3 @@
-package edu.nyu.cs.xz1991.assignment5;
 
 import java.util.Scanner; // import the Scanner
 
